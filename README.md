@@ -2,6 +2,8 @@
 
 A real-time 2D Java desktop game where cockroaches swarm in from the edges of the screen. Squash them before they eat your crumbs.
 
+https://github.com/user-attachments/assets/1be13148-a2f2-4951-9818-146e4dd8ade0
+
 ## Gameplay
 
 Cockroaches spawn continuously from all four edges and wander across the screen. Drop bread crumbs to lure them — cockroaches use greedy steering to seek the nearest crumb and will eat it down to nothing. Move your cursor too quickly near a cockroach and it will scatter. Left-click to squash; a splat mark fades on the floor where it died.
